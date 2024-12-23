@@ -1,0 +1,11 @@
+/* Add styles for the container holding the listing cards */
+.listing-cards-container {
+  display: flex; /* Arrange child elements in a row */
+  flex-wrap: wrap; /* Wrap cards to the next row if needed */
+  gap: 26px; /* Add space between cards */
+  margin: 20px;
+}
+
+.main-div{
+ padding: 0px 40px;
+}
